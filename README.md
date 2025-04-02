@@ -2,7 +2,7 @@
 
 Buzzard-Vomit is a locally run Python-based AI assistant project codenamed **Buzzai**. Inspired by *Accelerando's* Manfred Macx, the goal of Buzzai is to create a lightweight, privacy-focused virtual assistant that works in tandem with **LM Studio**, a local LLM frontend, to simulate memory, perform tasks, etc.
 
-This project is part of a broader vision: to build a virtual companion that understands your habits, keeps track of your goals, and becomes smarter over time — all without sending data to the cloud.
+This project is part of a broader vision: to build a virtual companion that understands your habits, keeps track of your goals, and becomes smarter over time — all without sending data to the cloud. 
 
 ---
 
@@ -21,7 +21,9 @@ This project is part of a broader vision: to build a virtual companion that unde
   Easily toggle debug mode or use commands like `forget last` to manage context dynamically.
 
 ---
-
+## Requirements
+- Python 3.7+ (with **requests** module)
+- LM Studio running "openhermes-2.5-mistral-7b" listening on port 1234
 ##  Planned Features
 
 -  **Window/Program Reading**  

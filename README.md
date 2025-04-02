@@ -1,6 +1,6 @@
-# 🧠 Buzzard Vomit
+# Buzzard-Vomit
 
-Buzzard Vomit is a locally run Python-based AI assistant project codenamed **Buzzai**. Inspired by *Accelerando's* Manfred Macx, the goal of Buzzai is to create a lightweight, privacy-focused virtual assistant that works in tandem with **LM Studio**, a local LLM frontend, to simulate memory, perform tasks, etc.
+Buzzard-Vomit is a locally run Python-based AI assistant project codenamed **Buzzai**. Inspired by *Accelerando's* Manfred Macx, the goal of Buzzai is to create a lightweight, privacy-focused virtual assistant that works in tandem with **LM Studio**, a local LLM frontend, to simulate memory, perform tasks, etc.
 
 This project is part of a broader vision: to build a virtual companion that understands your habits, keeps track of your goals, and becomes smarter over time — all without sending data to the cloud.
 
@@ -57,5 +57,5 @@ If you're just looking to get LLM responses without custom memory logic:
 - **Auto-GPT or AgentGPT**  
   For those who want goal-based LLM automation without writing Python scripts.
 
-## Buzzard Vomit exists so Buzz can tinker, I am posting it on Github to learn more about how Github works!
+## *Buzzard Vomit exists so I/we can tinker, I am posting it on Github to learn more about how Github works!*
 

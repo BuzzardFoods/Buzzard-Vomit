@@ -12,7 +12,7 @@ This project is part of a broader vision: to build a virtual companion that unde
   Buzzai sends prompts to a local LLM through LM Studio, using its API for fast and private local inference.
 
 - **Simulated Memory System:**  
-  Stores sessions with ~~selective memory parsing. Memory is condensed into a base profile and fact archive~~ to simulate long-term context and evolution.
+  Stores sessions ~~with selective memory parsing. Memory is condensed into a base profile and fact archive~~ to simulate long-term context and evolution.
 
 - **Python CLI Core:**  
   Lightweight CLI interface for issuing commands, receiving replies, and managing memory in real-time.
